@@ -10,7 +10,11 @@ def stop():
 
 if __name__ == "__main__":
  HEAD
+ HEAD
     move(3.0)
+
+    move(6.0)
+ motor-dev
 
     move(6.0)
  motor-dev
